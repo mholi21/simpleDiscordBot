@@ -1,0 +1,10 @@
+{
+	"prefix": "!",
+	"token": "HERE_GOES_TOKEN_DISCORD",
+	"mysqlHost" : "IP_OF_THE_SERVER",
+	"mysqlUser" : "MYSQL_USERNAME",
+	"mysqlPass" : "MYSQL_PASSWORD",
+	"mysqlDB" : "MYSQL_DB_NAME",
+	"serverPort" : "GAME_SERVER_PORT",
+	"serverIP" : "GAME_SERVER_IP"
+}
